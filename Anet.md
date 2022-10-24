@@ -68,8 +68,7 @@ Une fois vos grafcet écrit vous devez les implémenter.
 
 Pour ça aller sur l'URL : https://app.svb-41.com/
 
-![image](svbai.png)
-
+<img src="./svbai.png"/>
 Créé un nouveau controller dans la page AI.
 
 ```ts
