@@ -48,7 +48,7 @@ When this thing is in front of you open fire.
 - SlowDown(x: float)
 - TurnRight(x: float)
 - TurnLeft(x: float)
-- Tire(x: float)
+- Turn(x: float)
 - Fire()
 
 #### Captor available :
